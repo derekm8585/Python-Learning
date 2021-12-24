@@ -1,3 +1,5 @@
+# Simple rock, papers, scissors, lizard, spock intro program
+
 import random
 from enum import IntEnum
 
